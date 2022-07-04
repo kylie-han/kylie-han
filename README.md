@@ -6,7 +6,7 @@
 
 새로운 것을 알고, 공부하고, 적용하며 성장하는 모든 과정을 즐기고 있습니다.
 
-요즘은 CI/CD, Querydsl, HTTP에 대해 공부하고 있습니다.
+요즘은 CS기초, 알고리즘에 대해 공부하고 있습니다.
 
 [![kylie-han's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylie-han&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
